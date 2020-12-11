@@ -1,0 +1,10 @@
+display: gred e flex
+
+- espaçamento das bordas, div muito grande da imagem, header tem que colar na borda
+
+- borda, no-repeat
+- estilo da fonte para as páginas deve ser o mesmo, copiar e colar o menu
+- background no css tende a bugar, html é melhor
+- img-no repeat
+- mobile first (criar o código em cima do mobile e depois adapta)
+- responsividade com bootstrap ou materialize é melhor
